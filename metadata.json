@@ -1,0 +1,5 @@
+{
+  "name": "Academic Paper Summarizer",
+  "description": "An academic assistant that uses Gemini to summarize scientific research papers, extracting key information like objectives, methods, and findings. It can also provide a comparative analysis for multiple papers.",
+  "requestFramePermissions": []
+}
